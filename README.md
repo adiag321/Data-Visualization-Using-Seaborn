@@ -1,14 +1,8 @@
 # Data Visualization Using Seaborn
 
-**Seaborn** is a Python data visualization library based on Matplotlib. In this project, I explore Seaborn. I discuss Seaborn API overview, its functionality, setting Seaborn aesthetic parameters and colour palette. I discuss different distributions, various plot types and multi-plot grids with seaborn.  
+*Seaborn* is a Python data visualization library based on Matplotlib. In this project, I explore Seaborn. I discuss Seaborn API overview, its functionality, setting Seaborn aesthetic parameters and colour palette. I discuss different distributions, various plot types and multi-plot grids with seaborn.  
 
-===============================================================================
-
-The contents of this project is divided into various sections which are listed below:-
-
-## Table of Contents
-
-
+# Table of Contents
 1.	Introduction to Seaborn
 
 2.	Comparison of Seaborn and Matplotlib
@@ -85,8 +79,6 @@ The contents of this project is divided into various sections which are listed b
 
 38.	References
 
-===============================================================================
-
 ## 1. Introduction to Seaborn
 
 **Seaborn** is a data visualization library in Python. It is used to produce statistical graphics in Python. It is built on top of Matplotlib. It also supports NumPy and Pandas data structures. It also supports statistical units from SciPy.
@@ -95,9 +87,7 @@ In the world of analytics, data visualization plays an important role to explore
 
 In this project, I discuss **Seaborn** and present a high level overview of various plotting functions and tools associated with Seaborn.
 
-===============================================================================
-
-## 2. Comparison of Seaborn and Matplotlib
+# 2. Comparison of Seaborn and Matplotlib
 
 Seaborn uses Matplotlib to draw plots. Many actions can be accomplished with only Seaborn functions. Further customization options 
 might require using Matplotlib directly. Seaborn is not an alternative to Matplotlib. We can think of it as a complement to Matplotlib. As it is built on top of Matplotlib, we can call Matplotlib functions directly for creating simple plots.
