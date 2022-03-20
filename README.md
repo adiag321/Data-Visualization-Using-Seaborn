@@ -136,7 +136,7 @@ D) choose_dark_palette - Launch an interactive widget to create a dark sequentia
 E) choose_diverging_palette - Launch an interactive widget to choose a diverging color palette.
 
 
-## 37. Summary
+## Summary
 
 I offer a high-level overview of Seaborn and related plots in this project.
 
@@ -148,9 +148,8 @@ I use the pairplot() function to illustrate pairwise relationships. Then I use a
 
 I use the Seaborn reg plot and lm plot to display the linear relationships between variables. I use the Seaborn resid plot to visualize the residuals. Seaborn's heat map and cluster map are discussed. Then I talk with Seaborn about multi-plot grids. Facet grid, pair grid, and joint grid are all discussed.
 
-===============================================================================
 
-## 38. References
+## References
 
 The Seaborn plots and galleries in this project are taken from the following websites:-
 
