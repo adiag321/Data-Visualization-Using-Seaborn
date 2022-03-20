@@ -1,17 +1,18 @@
-# Data Visualization Using Seaborn
+# <p align = 'center'>Data Visualization Using Seaborn Library</p>
 
-*Seaborn* is a Python data visualization library based on Matplotlib. In this project, I explore Seaborn. I discuss Seaborn API overview, its functionality, setting Seaborn aesthetic parameters and colour palette. I discuss different distributions, various plot types and multi-plot grids with seaborn.  
+**Seaborn** is a Python data visualization library based on Matplotlib. In this project, I explore Seaborn. I discuss Seaborn API overview, its functionality, setting Seaborn aesthetic parameters and colour palette. I discuss different distributions, various plot types and multi-plot grids with seaborn.  
 
 ## Types of plots:
 
-1. Relational plots
+#### 1. Relational plots
+
 A) relplot - Figure-level interface for drawing relational plots onto a FacetGrid.
 
 B) scatterplot - Draw a scatter plot with possibility of several semantic groupings.
 
 C) lineplot - Draw a line plot with possibility of several semantic groupings.
 
-2. Distribution plots
+#### 2. Distribution plots
 
 A) displot - Figure-level interface for drawing distribution plots onto a FacetGrid.
 
@@ -25,7 +26,8 @@ E) rugplot - Plot marginal distributions by drawing ticks along the x and y axes
 
 F) distplot - DEPRECATED: Flexibly plot a univariate distribution of observations.
 
-3. Categorical plots
+#### 3. Categorical plots
+
 A) catplot - Figure-level interface for drawing categorical plots onto a FacetGrid.
 
 B) stripplot - Draw a scatterplot where one variable is categorical.
@@ -44,19 +46,21 @@ H) barplot - Show point estimates and confidence intervals as rectangular bars.
 
 I) countplot - Show the counts of observations in each categorical bin using bars.
 
-4. Regression plots
+#### 4. Regression plots
+
 A) lmplot - Plot data and regression model fits across a FacetGrid.
 
 B) regplot - Plot data and a linear regression model fit.
 
 C) residplot - Plot the residuals of a linear regression.
 
-5. Matrix plots
+#### 5. Matrix plots
+
 A) heatmap - Plot rectangular data as a color-encoded matrix.
 
 B) clustermap - Plot a matrix dataset as a hierarchically-clustered heatmap.
 
-6. Multi-plot grids
+#### 6. Multi-plot grids
 
 6.1. Facet grids
 
@@ -73,7 +77,8 @@ A) jointplot - Draw a plot of two variables with bivariate and univariate graphs
 
 B) JointGrid - Grid for drawing a bivariate plot with marginal univariate plots.
 
-7. Themeing
+#### 7. Themeing
+
 A) set_theme - Set aspects of the visual theme for all matplotlib and seaborn plots.
 
 B) axes_style - Get the parameters that control the general style of the plots.
@@ -92,7 +97,8 @@ H) reset_orig - Restore all RC params to original settings (respects custom rc).
 
 I) set - Alias for set_theme(), which is the preferred interface.
 
-8. Color palettes
+#### 8. Color palettes
+
 A) set_palette - Set the matplotlib color cycle using a seaborn palette.
 
 B) color_palette - Return a list of colors or continuous colormap defining a palette.
@@ -117,7 +123,8 @@ L) crayon_palette - Make a palette with color names from Crayola crayons.
 
 M) mpl_palette - Return discrete colors from a matplotlib palette.
 
-10. Palette widgets
+#### 10. Palette widgets
+
 A) choose_colorbrewer_palette - Select a palette from the ColorBrewer set.
 
 B) choose_cubehelix_palette - Launch an interactive widget to create a sequential cubehelix palette.
